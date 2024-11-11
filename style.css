@@ -1,0 +1,16 @@
+body {
+color: white;
+background: black;
+}
+
+header {
+ border: solid 2px white; rgb(42, 122, 228); 
+}
+
+
+padding: 80px;
+padding-top: 80px;
+
+img {
+    height: 100px
+    }
